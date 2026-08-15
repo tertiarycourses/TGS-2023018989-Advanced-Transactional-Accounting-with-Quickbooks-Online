@@ -1,0 +1,6 @@
+﻿Date,Supplier,PO,Invoice,Item,Qty Ordered,Qty Received,Unit Cost,GST,Status
+2026-07-02,Pacific Equipment Pte Ltd,PO-8101,PE-7781,Workstation,10,8,1850,1332,Partial receipt
+2026-07-03,Red Dot Materials Pte Ltd,PO-8102,RDM-4420,Materials,50,50,290,1305,Price differs from PO by $10/unit
+2026-07-08,Harbour Freelance Services,PO-8103,HFS-991,Subcontractor day,6,6,850,0,Approved
+2026-07-12,Red Dot Materials Pte Ltd,PO-8102,RDM-CR17,Supplier credit,-3,-3,290,-78.3,Return/damage
+2026-07-13,Red Dot Materials Pte Ltd,,RDM-4420,Duplicate invoice candidate,50,50,290,1305,Block

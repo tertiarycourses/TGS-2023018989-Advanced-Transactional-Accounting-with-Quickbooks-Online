@@ -1,0 +1,6 @@
+﻿Timestamp,User,Event,Object,Before,After,Risk
+2026-08-02 21:14,sales.user,Edit,INV-3001 date,2026-07-15,2026-06-30,Backdated after close
+2026-08-03 08:03,ap.user,Delete,BILL-7781,"SGD 14,800",Deleted,Liability removed
+2026-08-03 09:11,bank.user,Create rule,Generic subscriptions,,"Auto-add, description contains SUB",Broad rule
+2026-08-03 10:22,admin.user,Edit supplier,Pacific Equipment bank,DBS ...112,OCBC ...883,Payment fraud risk
+2026-08-03 10:23,System Administration,Indirect edit,AP ageing,"14,800",0,Downstream effect

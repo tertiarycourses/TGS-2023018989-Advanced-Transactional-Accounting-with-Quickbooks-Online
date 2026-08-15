@@ -1,0 +1,8 @@
+﻿Date,Event,Cash Treatment,Accrual/Standards Issue,Amount,Currency
+2026-06-01,Customer deposit for August event,Revenue,Contract liability until performance,15000,SGD
+2026-06-10,June event invoiced in July,Not recorded,Revenue/receivable in June if obligation satisfied,28000,SGD
+2026-06-25,June supplier service invoiced in July,Not recorded,Accrual in June,7800,SGD
+2026-04-01,Annual insurance paid,Expense,Prepayment release over 12 months,12000,SGD
+2026-01-01,Equipment purchased,Expense,PPE and depreciation,48000,SGD
+2026-06-20,USD supplier invoice unpaid,Expense at payment,Payable at transaction date and remeasure,10000,USD
+2026-06-28,Damaged décor inventory,No entry,NRV/write-down review,6000,SGD

@@ -1,0 +1,5 @@
+﻿User,Current Access,Creates Masters,Posts,Reconciles,Pays,Reviews Audit,Conflict
+admin.user,Primary admin,Yes,Yes,Yes,Yes,Yes,High
+ap.user,AP,Yes,Yes,No,Yes,No,High
+bank.user,Banking,No,Yes,Yes,No,No,Medium
+controller,Reports,No,No,Yes,No,Yes,Low

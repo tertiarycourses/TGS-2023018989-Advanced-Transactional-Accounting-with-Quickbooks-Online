@@ -1,0 +1,7 @@
+﻿Code,Meaning,Expected Rate,Evidence/Condition
+SR 9%,Standard-rated supply,0.09,Valid local taxable supply
+ZR,Zero-rated supply,0,Qualifying export/international service evidence
+ES,Exempt supply,0,Qualifying exempt treatment
+TX 9%,Standard-rated purchase,0.09,Valid tax invoice and claimable business purpose
+OS,Out of scope,0,Outside GST scope
+RC review,Reverse charge review,0.09,Escalate applicability and claim treatment

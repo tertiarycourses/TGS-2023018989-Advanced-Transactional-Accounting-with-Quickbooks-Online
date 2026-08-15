@@ -1,0 +1,16 @@
+﻿Account,Debit,Credit
+Cash,74200,0
+Accounts Receivable,88500,0
+Inventory,42300,0
+PPE,48000,0
+Accumulated Depreciation,0,4800
+Accounts Payable,0,52700
+GST Payable,0,9420
+Loan,0,50000
+Share Capital,0,60000
+Retained Earnings,0,26000
+Revenue,0,215000
+COGS,112000,0
+Operating Expenses,53600,0
+Depreciation,4800,0
+Suspense,4500,0

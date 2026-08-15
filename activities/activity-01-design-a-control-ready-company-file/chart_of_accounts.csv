@@ -1,0 +1,10 @@
+﻿Code,Account Name,Type,Detail Type,Action,Purpose/Control Owner
+1100,Trade Receivables,Accounts Receivable,Accounts Receivable,Create,AR control · Finance Manager
+1200,Inventory Asset,Other Current Asset,Inventory,Create,Inventory control · Operations Accountant
+1300,Prepayments,Other Current Asset,Prepaid Expenses,Create,Monthly release · GL Accountant
+1500,Office Equipment,Fixed Asset,Machinery & Equipment,Create,Fixed asset register · GL Accountant
+1590,Accumulated Depreciation,Fixed Asset,Accumulated Depreciation,Create,Contra asset · GL Accountant
+2100,Trade Payables,Accounts Payable,Accounts Payable,Create,AP control · Finance Manager
+2200,GST Output Tax,Other Current Liability,Tax Payable,Create,GST control · Tax Reviewer
+2210,GST Input Tax,Other Current Asset,Tax Recoverable,Create,GST control · Tax Reviewer
+2990,Suspense and Clearing,Other Current Liability,Other,Create,Weekly zero review · Controller

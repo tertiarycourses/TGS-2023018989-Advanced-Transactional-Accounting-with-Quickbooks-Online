@@ -1,0 +1,5 @@
+﻿Date,Employee,Project,Hours,Cost Rate,Billable Rate,Billable
+2026-07-03,Aisha Rahman,Atlas HQ Fit-Out,8,48,120,Yes
+2026-07-04,Marcus Lim,Atlas HQ Fit-Out,10,62,150,Yes
+2026-07-05,Aisha Rahman,,6,48,120,Missing project
+2026-07-10,Marcus Lim,Clinic Renewal,12,62,150,Yes

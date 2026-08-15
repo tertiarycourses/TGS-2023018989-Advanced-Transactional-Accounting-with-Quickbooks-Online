@@ -1,0 +1,7 @@
+﻿Sequence,Control,Owner,Evidence,Status
+1,Cut-off and feeds complete,Finance Manager,Transaction exception report,Pending
+2,AR/AP/inventory reconciled,Subledger owners,Reconciliation workpapers,Pending
+3,Bank/card reconciled,Bank accountant,Reconciliation reports,Pending
+4,Adjustments approved,Controller,Adjustment pack,Pending
+5,Analytical review,Controller,Variance memo,Pending
+6,Lock books,Primary admin,Close setting screenshot,Pending

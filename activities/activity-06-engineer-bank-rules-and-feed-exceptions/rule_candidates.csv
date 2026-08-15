@@ -1,0 +1,4 @@
+﻿Priority,Rule,Condition,Action,Auto Add,Reason
+1,IRAS GST,Bank text contains IRAS GST,GST payable,No,Review period and tax control
+2,Rent exact,Bank text exact GIRO RENT WOODS SQ and amount 8600,"Rent expense, SR/NA",Yes,Stable approved pattern
+3,Generic transfer,Description contains Transfer,Transfer,No,Must match destination

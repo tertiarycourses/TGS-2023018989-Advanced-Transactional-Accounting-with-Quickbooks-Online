@@ -1,0 +1,6 @@
+﻿Adjustment,Start/Service Date,End Date,Original Amount,Months/Units,June Evidence,Policy
+Utilities accrual,2026-06-01,2026-06-30,1850,1,Estimate from meter/vendor,Accrue incurred service
+Insurance prepayment,2026-04-01,2027-03-31,12000,12,Policy schedule,Straight-line monthly
+Equipment depreciation,2026-01-01,2030-12-31,48000,60,Asset register,"Straight-line, nil residual"
+Customer deposit release,2026-05-15,2026-06-30,20000,2,Milestone 1 complete 50%,Recognise satisfied performance
+USD payable,2026-06-20,2026-06-30,10000,1,Invoice and closing rate,Remeasure monetary item

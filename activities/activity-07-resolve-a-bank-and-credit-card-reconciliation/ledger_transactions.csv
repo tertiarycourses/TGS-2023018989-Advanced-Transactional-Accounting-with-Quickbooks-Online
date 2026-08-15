@@ -1,0 +1,7 @@
+﻿Date,Reference,Description,Amount,Cleared,Issue
+2026-07-02,D100,Customer receipt,28340,Yes,
+2026-07-03,W200,Supplier payment,-10000,Yes,
+2026-07-03,W200-DUP,Duplicate supplier payment,-10000,No,Duplicate
+2026-07-04,CHQ-909,Outstanding cheque,-2500,No,Outstanding
+2026-07-31,DEP-999,Deposit in transit,3600,No,In transit
+2026-07-15,OLD-77,Changed reconciled item,-780,Prior,Audit review

@@ -1,0 +1,9 @@
+﻿Date,Reference,Type,Counterparty,Net,Tax Code,GST,Evidence,Review Hint
+2026-04-03,INV-1,Local sale,Atlas,10000,SR 9%,900,Tax invoice,
+2026-04-05,INV-2,Export goods,Overseas Co,8000,ZR,0,Missing export permit,Evidence exception
+2026-04-07,BILL-1,Local purchase,Red Dot,5000,TX 9%,450,Valid tax invoice,
+2026-04-09,BILL-2,Passenger car,Auto Dealer,45000,TX 9%,4050,Tax invoice,Potentially disallowed
+2026-04-11,CM-1,Sales credit,Atlas,-1000,SR 9%,-90,Credit note,
+2026-04-14,EXP-1,Private mobile,Telco,180,TX 9%,16.2,Invoice,Private/disallowed
+2026-05-02,INV-3,Exempt supply,Investor,2400,ES,0,Contract,
+2026-06-20,BILL-3,Imported service,Cloud Vendor,6200,RC review,0,Invoice,Escalate reverse charge

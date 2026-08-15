@@ -1,0 +1,8 @@
+﻿Date,Bank Text,Description,Amount,Account,Risk Hint
+2026-07-01,GIRO RENT WOODS SQ,Monthly rent,-8600,DBS Current,Stable
+2026-07-02,PAYNOW ATLAS WP,Atlas receipt,28340,DBS Current,Match invoice receipt
+2026-07-03,FAST TRF 991827,Transfer,-20000,DBS Current,Match other bank account
+2026-07-04,CARD SETTLEMENT 4451,Card settlement,17492.36,DBS Current,Net of fees
+2026-07-05,LOAN DISB 882,Loan proceeds,50000,DBS Current,Not income
+2026-07-06,IRAS GST,IRAS,-9420.55,DBS Current,Tax control
+2026-07-07,MISC CREDIT,Unknown credit,1250,DBS Current,Investigate

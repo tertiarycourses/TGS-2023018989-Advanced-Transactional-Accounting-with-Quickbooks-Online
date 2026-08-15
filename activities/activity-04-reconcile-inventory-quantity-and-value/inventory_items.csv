@@ -1,0 +1,4 @@
+﻿SKU,Item,Opening Qty,Unit Cost,Reorder Point,Status
+LC-100,Sensor module,40,72,15,Active
+LC-200,Control board,25,125,10,Active
+LC-300,Legacy adapter,18,38,5,Obsolete review

@@ -1,0 +1,6 @@
+﻿Date,Reference,Description,Debit,Credit,Balance
+2026-07-01,OPEN,Opening,0,0,82500
+2026-07-02,D100,Customer receipt,0,28340,110840
+2026-07-03,W200,Supplier payment,10000,0,100840
+2026-07-04,FEE,Bank fee,45,0,100795
+2026-07-31,CLOSE,Closing,0,0,100795

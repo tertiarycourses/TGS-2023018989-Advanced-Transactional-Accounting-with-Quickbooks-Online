@@ -1,0 +1,7 @@
+﻿Date,Event,Document,Net,GST,Cash,Recognition Note
+2026-07-01,Customer deposit received,RCPT-1001,20000,0,20000,Liability until milestone performed
+2026-07-05,Estimate approved,EST-2001,52000,4680,0,Commitment only
+2026-07-15,Milestone 1 completed,INV-3001,26000,2340,0,Recognise completed milestone
+2026-07-20,Receipt applied,RCPT-1001,0,0,28340,Apply deposit and bank receipt correctly
+2026-07-24,Scope reduction,CM-4001,-3000,-270,0,Credit original service and GST
+2026-07-28,Overpayment refunded,REF-5001,0,0,-1270,Clear customer credit

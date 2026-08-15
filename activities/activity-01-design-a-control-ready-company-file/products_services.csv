@@ -1,0 +1,4 @@
+﻿SKU,Name,Type,Sales Rate,Purchase Cost,Income Account,Expense/COGS Account,GST
+DES-100,Design milestone,Service,6500,0,4100 Service Revenue,,SR 9%
+MAT-210,Premium materials,Inventory,480,290,4200 Product Revenue,5100 Cost of Goods Sold,SR 9%
+SUB-310,Subcontractor day,Service,1200,850,4300 Recharge Revenue,5200 Subcontractor Cost,SR 9%

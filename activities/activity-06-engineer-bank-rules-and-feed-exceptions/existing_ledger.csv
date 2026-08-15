@@ -1,0 +1,4 @@
+﻿Date,Reference,Amount,Type,Account
+2026-07-02,RCPT-1001,28340,Receive Payment,DBS Current
+2026-07-03,TRF-3001,-20000,Transfer,DBS Current
+2026-07-04,DEP-4001,17492.36,Bank Deposit,DBS Current

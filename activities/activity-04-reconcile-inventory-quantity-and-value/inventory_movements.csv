@@ -1,0 +1,6 @@
+﻿Date,SKU,Type,Qty,Unit Cost/Price,Reference,Issue
+2026-07-02,LC-100,Purchase,30,75,BILL-01,
+2026-07-03,LC-100,Sale,-55,120,INV-01,
+2026-07-04,LC-200,Sale,-30,195,INV-02,Sale entered before purchase
+2026-07-06,LC-200,Purchase,20,128,BILL-02,Backdated effect review
+2026-07-18,LC-300,Adjustment,-6,38,ADJ-01,Damaged/obsolete
