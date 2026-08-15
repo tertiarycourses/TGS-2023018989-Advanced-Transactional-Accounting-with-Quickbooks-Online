@@ -1,6 +1,6 @@
 # Source and Legacy Coverage
 
-Version v11.0 · 16 August 2026
+Version v11.1 · 16 August 2026
 
 ## Legacy deck disposition
 

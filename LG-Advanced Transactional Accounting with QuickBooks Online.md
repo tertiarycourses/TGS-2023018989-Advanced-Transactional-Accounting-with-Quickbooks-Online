@@ -2,7 +2,7 @@
 
 **WSQ Course Code:** TGS-2023018989  
 **TSC:** Transactional Accounting · ACC-CRP-4009-1.1  
-**Version:** 11.0 · 16 August 2026  
+**Version:** 11.1 · 16 August 2026
 
 > This guide contains the detailed procedures. The slide deck remains concept-led and visual.
 
